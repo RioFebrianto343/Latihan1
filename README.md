@@ -21,5 +21,9 @@ Kemudian periksa konfigurasi dengan perintah:
  
  git config --list
  
+Jika berhasil maka akan seperti ini:
+
+
+ 
 
 
