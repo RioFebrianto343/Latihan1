@@ -51,5 +51,7 @@ untuk menambahkan file baru gunakan perintah git add
 #Menyimpan perubahan ke database
 gunakan perintah git commit -m "Komentar commit"
 
+![untitled20](https://user-images.githubusercontent.com/46512504/51533640-0e83be80-1e76-11e9-947a-dc6555baa284.jpg)
 
-
+#Membuat repository sistem
+ login GitHub lalu start project
