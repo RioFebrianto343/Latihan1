@@ -25,6 +25,11 @@ Jika berhasil maka akan seperti ini:
 
 ![untitled14](https://user-images.githubusercontent.com/46512504/51531479-21939000-1e70-11e9-9cd1-cd9f42c9e696.jpg)
 
+ Setelah selesai mengkonfigurasi maka kalian dapat membuat repository local
  
+ #Membuat Repository Local
+ 
+ Buka Git Bash
+ Buat direktori project
 
 
