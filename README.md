@@ -23,6 +23,7 @@ Kemudian periksa konfigurasi dengan perintah:
  
 Jika berhasil maka akan seperti ini:
 
+![untitled14](https://user-images.githubusercontent.com/46512504/51531479-21939000-1e70-11e9-9cd1-cd9f42c9e696.jpg)
 
  
 
