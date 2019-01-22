@@ -11,9 +11,12 @@
 3.Jika kamu baru pertama kali menggunakan Git silahkan lakukan perintah berikut ini:
  
  git config --global user.name "Johan"
+ 
  git config --global user.email "example@email.com"
 
 Kemudian periksa konfigurasi dengan perintah:
+ 
  git config --list
  
+![untitled14](https://user-images.githubusercontent.com/46512504/51530914-9665ca80-1e6e-11e9-91ab-d5a07d1990df.jpg)
 
