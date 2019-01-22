@@ -55,3 +55,9 @@ gunakan perintah git commit -m "Komentar commit"
 
 #Membuat repository sistem
  login GitHub lalu start project
+
+![untitled5](https://user-images.githubusercontent.com/46512504/51533886-b39e9700-1e76-11e9-982b-a80b95b54b0a.jpg)
+
+isi repository,contoh: Latihan1
+
+
