@@ -29,7 +29,12 @@ Jika berhasil maka akan seperti ini:
  
  #Membuat Repository Local
  
- Buka Git Bash
+-Buka Git Bash
  Buat direktori project
+
+![untitled20](https://user-images.githubusercontent.com/46512504/51532260-3cff9a80-1e72-11e9-91d3-311c5f604b19.jpg)
+
+-Jalankan perintah git init,untuk membuat repository local
+
 
 
