@@ -46,4 +46,10 @@ disini kita akan mencoba buat file bernama README.md
 #Menambahkan file baru pada repository
 untuk menambahkan file baru gunakan perintah git add
 
+![untitled20](https://user-images.githubusercontent.com/46512504/51533087-72a58300-1e74-11e9-8ff7-4fb0b38469ab.jpg)
+
+#Menyimpan perubahan ke database
+gunakan perintah git commit -m "Komentar commit"
+
+
 
