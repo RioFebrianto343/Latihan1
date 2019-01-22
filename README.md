@@ -9,8 +9,11 @@
 ![untitled14](https://user-images.githubusercontent.com/46512504/51529195-d88d0d00-1e6a-11e9-95bd-ded516b8c7df.jpg)
 
 3.Jika kamu baru pertama kali menggunakan Git silahkan lakukan perintah berikut ini:
+ 
  git config --global user.name "Johan"
  git config --global user.email "example@email.com"
+
 Kemudian periksa konfigurasi dengan perintah:
  git config --list
  
+
