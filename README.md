@@ -60,4 +60,7 @@ gunakan perintah git commit -m "Komentar commit"
 
 isi repository,contoh: Latihan1
 
+![untitled6](https://user-images.githubusercontent.com/46512504/51533991-037d5e00-1e77-11e9-8b06-36b59f3abf5e.jpg)
+
+
 
