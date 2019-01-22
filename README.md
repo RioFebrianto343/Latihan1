@@ -69,4 +69,9 @@ gunakan perintah git remote add origin [url]
 
 #Mengirim perubahan ke server
 
+gunakan perintah git push -u origin master
+
+#Melihat hasilnya pada server repository
+
+
 
