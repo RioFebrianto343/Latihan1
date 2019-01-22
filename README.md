@@ -39,5 +39,11 @@ Jika berhasil maka akan seperti ini:
 ![untitled20](https://user-images.githubusercontent.com/46512504/51532578-0f672100-1e73-11e9-89ad-956d8954b38d.jpg)
 
 #Cara menambahkan file baru pada repository
+disini kita akan mencoba buat file bernama README.md
+
+![untitled20](https://user-images.githubusercontent.com/46512504/51532820-ba77da80-1e73-11e9-81bd-12a13c1e104a.jpg)
+
+#Menambahkan file baru pada repository
+untuk menambahkan file baru gunakan perintah git add
 
 
