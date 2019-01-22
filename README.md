@@ -65,4 +65,8 @@ isi repository,contoh: Latihan1
 #Menambahkan remote repository
 gunakan perintah git remote add origin [url]
 
+![untitled21](https://user-images.githubusercontent.com/46512504/51534631-d92ca000-1e78-11e9-838f-10bca40221c4.jpg)
+
+#Mengirim perubahan ke server
+
 
