@@ -36,5 +36,8 @@ Jika berhasil maka akan seperti ini:
 
 -Jalankan perintah git init,untuk membuat repository local
 
+![untitled20](https://user-images.githubusercontent.com/46512504/51532578-0f672100-1e73-11e9-89ad-956d8954b38d.jpg)
+
+#Cara menambahkan file baru pada repository
 
 
